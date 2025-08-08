@@ -73,16 +73,5 @@
         "weight": 70.0,
         "bmi": 345.68,
         "verdict": "obese"
-    },
-    {
-        "id": 9,
-        "name": "sunil",
-        "city": "bhodakpur",
-        "age": 60,
-        "gender": "male",
-        "height": 45.0,
-        "weight": 70.0,
-        "bmi": 345.68,
-        "verdict": "obese"
     }
 ]
